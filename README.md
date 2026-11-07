@@ -1,494 +1,264 @@
-
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HERO HEADER                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════ HOLOGRAPHIC HEADER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:0a0a2e,100:001a12&height=300&section=header&text=AMEY%20RATHORE&fontSize=90&fontColor=00f5ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20IEEE%20Researcher%20%E2%80%A2%20COO%20%40%20TechMasterAI&descAlignY=62&descSize=17&animation=twinkling&stroke=ff00ff&strokeWidth=2" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050014,25:10002b,50:170044,75:071a2e,100:001b20&text=AMEY%20RATHORE&fontSize=82&fontColor=00F5FF&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=16&descAlignY=58&animation=fadeIn&stroke=00F5FF&strokeWidth=2"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=55&lines=%3E+INITIALIZING+AMEY.OS...;%3E+FULL+STACK+DEVELOPER+%7C+AI+ENGINEER;%3E+COO+%40+TECHMASTERAI;%3E+IEEE+Xplore+RESEARCHER;%3E+DESIGNING+INTELLIGENT+SYSTEMS;%3E+BUILDING+WHAT+DOESN'T+EXIST+YET."/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&labelColor=090018"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-8A2BE2?style=for-the-badge&labelColor=090018"/>
-<img src="https://img.shields.io/badge/ROLE-TECH%20LEADER-FF00FF?style=for-the-badge&labelColor=090018"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/amey-rathore-92146535a/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=%5B+SYSTEM+BOOT+...+OK+%5D;%5B+LOADING+AMEY.RATHORE+...+100%25+%5D;%5B+ACCESS+GRANTED+%E2%9C%93+%5D;Full+Stack+Developer+%E2%9A%A1;Generative+AI+%2B+LLM+Engineer+%F0%9F%A4%96;IEEE+Xplore+Published+Researcher+%F0%9F%94%AC;COO+%40+TechMasterAI+%F0%9F%9A%80;Engineering+Intelligence+Into+Reality" alt="Typing SVG"/>
 </a>
 
-<a href="https://github.com/amey-collab69">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<!-- ═══════════════════ QUICK BADGES ═══════════════════ -->
+<p>
+  <a href="https://www.linkedin.com/in/amey-rathore-92146535a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/></a>
+  <a href="https://techmasterai.org/"><img src="https://img.shields.io/badge/TechMasterAI-COO-00f5ff?style=for-the-badge&logo=rocket&logoColor=00f5ff&labelColor=0d0221"/></a>
+  <a href="#-research--publications"><img src="https://img.shields.io/badge/IEEE%20Xplore-Published-ff00ff?style=for-the-badge&logo=ieee&logoColor=ff00ff&labelColor=0d0221"/></a>
+  <img src="https://komarev.com/ghpvc/?username=amey-collab69&style=for-the-badge&color=00f5ff&labelColor=0d0221&label=VISITORS"/>
+</p>
 
-<a href="https://techmasterai.org/">
-<img src="https://img.shields.io/badge/TECHMASTERAI-COO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-00ff9f?style=flat-square&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-ff00ff?style=flat-square&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/Based%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-00f5ff?style=flat-square&labelColor=0d0221"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 </div>
 
----
+## ⚡ System Identity
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<h2 align="center">◈ THE DEVELOPER BEHIND THE CODE ◈</h2>
+```text
+╔════════════════════════════════════════════════╗
+║   █████╗ ███╗   ███╗███████╗██╗   ██╗          ║
+║  ██╔══██╗████╗ ████║██╔════╝╚██╗ ██╔╝          ║
+║  ███████║██╔████╔██║█████╗   ╚████╔╝           ║
+║  ██╔══██║██║╚██╔╝██║██╔══╝    ╚██╔╝            ║
+║  ██║  ██║██║ ╚═╝ ██║███████╗   ██║             ║
+║  ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝   ╚═╝             ║
+╠════════════════════════════════════════════════╣
+║ > IDENTITY  : Amey Rathore                     ║
+║ > ROLE      : Full Stack Dev & AI Researcher   ║
+║ > POSITION  : COO @ TechMasterAI               ║
+║ > EDUCATION : B.Tech CSE | VIT Bhopal          ║
+║ > RESEARCH  : IEEE Xplore | ICCIDS 2026        ║
+║ > STATUS    : ██████████████████ ONLINE        ║
+║ > MISSION   : Engineering Intelligence         ║
+╚════════════════════════════════════════════════╝
+```
 
-<div align="center">
+</td>
+<td width="42%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="260"/>
 
-### AMEY RATHORE
+**`ENGINEERING • INNOVATION`**
+**`RESEARCH • LEADERSHIP`**
 
-**Full Stack Developer | AI/ML Engineer | Researcher | Technology Leader**
+</td>
+</tr>
+</table>
 
-*I don't just write code. I engineer solutions, explore intelligence, and build systems designed to make an impact.*
-
-</div>
+## 🧠 About Me
 
 ```python
 class AmeyRathore:
+    """Turning complex ideas into intelligent systems."""
 
-    def __init__(self):
-        self.name = "Amey Rathore"
-        self.role = [
-            "Full Stack Developer",
-            "AI/ML Engineer",
-            "Researcher",
-            "COO @ TechMasterAI"
-        ]
+    name       = "Amey Rathore"
+    roles      = ["Full Stack Developer", "AI/ML Engineer", "Researcher", "COO @ TechMasterAI"]
+    education  = "B.Tech CSE — VIT Bhopal University"
 
-        self.education = "B.Tech CSE | VIT Bhopal University"
+    expertise  = {
+        "build":    ["Full Stack Systems", "Backend Engineering", "Scalable APIs"],
+        "ai":       ["Generative AI & LLMs", "Machine Learning", "Deep Learning"],
+        "infra":    ["Cloud Computing", "Docker", "Kubernetes"],
+        "research": ["Bio-inspired RL", "Neuro-computational Models"],
+    }
 
-        self.expertise = [
-            "Full Stack Engineering",
-            "Artificial Intelligence",
-            "Generative AI & LLMs",
-            "Machine Learning",
-            "Cloud & Distributed Systems",
-            "Research & Innovation"
-        ]
+    exploring  = ["RAG Systems", "LangChain & LangGraph", "Agentic AI", "Advanced System Design"]
+    mindset    = "Build. Research. Innovate. Repeat."
 
-        self.exploring = [
-            "RAG Systems",
-            "LangChain & LangGraph",
-            "LLM Engineering",
-            "Advanced System Design",
-            "Kubernetes & Cloud Infrastructure"
-        ]
-
-        self.mindset = "Build. Research. Innovate. Repeat."
-
-    def mission(self):
-        return "Transforming complex ideas into intelligent products."
-
-
-amey = AmeyRathore()
-print(amey.mission())
+if __name__ == "__main__":
+    print(AmeyRathore.__doc__)
 ```
 
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    LEADERSHIP                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ LEADERSHIP & VISION ◈</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TECHMASTERAI-ORGANIZATION-00F5FF?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=090018"/>
-
-### Chief Operating Officer — TechMasterAI
-
-Driving technology, operations, execution and innovation.
-
-<a href="https://techmasterai.org/">
-<img src="https://img.shields.io/badge/EXPLORE-TECHMASTERAI-8A2BE2?style=for-the-badge&labelColor=090018"/>
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ PROJECTS / ENGINEERING LAB ◈</h2>
-
-<div align="center">
-
-*Building intelligent applications and solving real-world problems through engineering.*
-
-</div>
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛰️ SentinelAI
+AI-powered disaster response & rescue management platform with real-time object detection.
 
-**AI Disaster Response Platform**
-
-An intelligent disaster management ecosystem designed to detect incidents, prioritize rescue operations and support emergency response.
-
-- Computer Vision
-- YOLO-based detection
-- Real-time incident management
-- Geospatial visualization
-
-`React` `FastAPI` `PyTorch` `YOLO` `PostgreSQL`
+![React](https://img.shields.io/badge/React-0d0221?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=flat-square&logo=fastapi&logoColor=00f5ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0221?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![YOLO](https://img.shields.io/badge/YOLO-0d0221?style=flat-square&logo=yolo&logoColor=00FFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌦️ ClimateAI
+Climate digital twin forecasting weather and rainfall with deep sequence models.
 
-**Climate Intelligence & Digital Twin**
-
-A climate prediction platform leveraging historical weather data and deep learning for rainfall and temperature forecasting.
-
-- Weather intelligence
-- Time-series forecasting
-- LSTM architectures
-- Interactive dashboards
-
-`React` `FastAPI` `TensorFlow` `LSTM`
+![React](https://img.shields.io/badge/React-0d0221?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=flat-square&logo=fastapi&logoColor=00f5ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0221?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![LSTM](https://img.shields.io/badge/LSTM-0d0221?style=flat-square&logoColor=ff00ff)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 NEXIS
+Intelligent voice-driven virtual AI assistant powered by LLMs.
 
-**Intelligent Virtual Assistant**
-
-A personal AI assistant combining conversational intelligence, voice interaction and external AI APIs.
-
-- Voice recognition
-- Speech synthesis
-- LLM integration
-- Intelligent interaction
-
-`Python` `OpenAI API` `Speech Recognition`
+![Python](https://img.shields.io/badge/Python-0d0221?style=flat-square&logo=python&logoColor=FFD43B)
+![Speech](https://img.shields.io/badge/Speech%20Recognition-0d0221?style=flat-square&logo=googleassistant&logoColor=00f5ff)
+![LLM](https://img.shields.io/badge/LLM%20APIs-0d0221?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎥 Neon Video Chat
+Real-time peer-to-peer video communication platform.
 
-**Real-Time Communication System**
-
-A browser-based communication platform using peer-to-peer connectivity and real-time signaling.
-
-- WebRTC
-- Peer-to-peer communication
-- Real-time signaling
-- Video streaming
-
-`Node.js` `Socket.io` `PeerJS` `WebRTC`
+![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=flat-square&logo=nodedotjs&logoColor=339933)
+![WebRTC](https://img.shields.io/badge/WebRTC-0d0221?style=flat-square&logo=webrtc&logoColor=00f5ff)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d0221?style=flat-square&logo=socketdotio&logoColor=white)
+![PeerJS](https://img.shields.io/badge/PeerJS-0d0221?style=flat-square&logoColor=ff00ff)
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    RESEARCH                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ RESEARCH & SCIENTIFIC CONTRIBUTIONS ◈</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IEEE-XPLORE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-<img src="https://img.shields.io/badge/ICCIDS-2026-8A2BE2?style=for-the-badge"/>
-
-### A Basal Ganglia–Inspired Reinforcement Learning Framework Using Dopamine-Modulated Plasticity
-
-**Research Publication | IEEE Xplore | ICCIDS 2026**
-
-Exploring biologically inspired reinforcement learning through dopamine-modulated plasticity and basal ganglia-inspired computational mechanisms.
-
+<details>
+<summary><b>🧠 More — Generative AI Projects (click to expand)</b></summary>
 <br/>
 
-<img src="https://img.shields.io/badge/DOMAIN-REINFORCEMENT%20LEARNING-00F5FF?style=flat-square&labelColor=090018"/>
-<img src="https://img.shields.io/badge/FOCUS-NEUROSCIENCE%20%2B%20AI-FF00FF?style=flat-square&labelColor=090018"/>
+LLM-powered applications, RAG pipelines and intelligent chatbots built with **Python, LangChain, Groq and OpenAI**.
 
-</div>
+</details>
 
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TECHNOLOGY STACK                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ TECHNOLOGY ECOSYSTEM ◈</h2>
-
-<h3 align="center">01 / PROGRAMMING LANGUAGES</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css&theme=dark&perline=7"/>
-</div>
-
-<h3 align="center">02 / FRONTEND ENGINEERING</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui,threejs&theme=dark&perline=7"/>
-</div>
-
-<h3 align="center">03 / BACKEND ENGINEERING</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,dotnet&theme=dark&perline=7"/>
-</div>
-
-<h3 align="center">04 / DATABASE & DATA ENGINEERING</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase&theme=dark&perline=7"/>
-</div>
-
-<h3 align="center">05 / ARTIFICIAL INTELLIGENCE</h3>
+## 🔬 Research & Publications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-090018?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/LANGCHAIN-090018?style=for-the-badge&logo=chainlink&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/HUGGING%20FACE-090018?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/GROQ-090018?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/IEEE%20Xplore-Research%20Publication-00f5ff?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/ICCIDS-2026-ff00ff?style=for-the-badge&labelColor=0d0221"/>
 
 </div>
 
-<h3 align="center">06 / DEVOPS & CLOUD INFRASTRUCTURE</h3>
+> ### 📄 A Basal Ganglia–Inspired Reinforcement Learning Framework Using Dopamine-Modulated Plasticity
+> Exploring biologically inspired reinforcement learning through dopamine-modulated plasticity and basal-ganglia computational mechanisms.
+>
+> **Published in IEEE Xplore • Presented at ICCIDS 2026**
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx,vscode,postman,figma&theme=dark&perline=10"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    CURRENT FOCUS                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ CURRENT RESEARCH & EXPLORATION ◈</h2>
-
-<div align="center">
-
-| AREA | EXPLORATION |
-|:---:|:---|
-| 🧠 Generative AI | LLM Engineering, RAG, Embeddings |
-| 🔗 AI Frameworks | LangChain, LangGraph |
-| ⚙️ Backend | FastAPI, Distributed Systems |
-| 🏗️ Architecture | System Design, Microservices |
-| ☁️ Infrastructure | Docker, Kubernetes, AWS |
-| 🔬 Deep Learning | Neural Networks, Transformers |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                GITHUB COMMAND CENTER                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ GITHUB COMMAND CENTER ◈</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DEVELOPER-ANALYTICS-00F5FF?style=for-the-badge&labelColor=050014"/>
-<img src="https://img.shields.io/badge/COMMIT-MONITOR-8A2BE2?style=for-the-badge&labelColor=050014"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-FF00FF?style=for-the-badge&labelColor=050014"/>
-
-</div>
-
-<h3 align="center">⚡ DEVELOPER STATISTICS</h3>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amey-collab69&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=050014&title_color=00F5FF&icon_color=FF00FF&text_color=E6EDF3&border_color=8A2BE2&rank_icon=percentile" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab69&layout=donut&langs_count=8&theme=tokyonight&bg_color=050014&title_color=00F5FF&text_color=E6EDF3&border_color=8A2BE2" alt="Most Used Languages"/>
-
-</div>
-
-<br/>
-
-<h3 align="center">🔥 CONTRIBUTION STREAK</h3>
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=amey-collab69&theme=tokyonight&background=050014&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&border=8A2BE2&dates=AAAAAA" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<h3 align="center">📈 COMMIT ACTIVITY TIMELINE</h3>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab69&bg_color=050014&color=00F5FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true&custom_title=AMEY%20RATHORE%20%7C%20CODING%20ACTIVITY" alt="GitHub Commit Activity Graph"/>
-
-</div>
-
-<br/>
-
-<h3 align="center">🟩 CONTRIBUTION HEATMAP / SNAKE</h3>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050014,50:170044,100:001b20&height=3&section=header" width="100%"/>
-
-**⚡ CODE. COMMIT. CONTRIBUTE. REPEAT. ⚡**
-
-<sub>Every contribution is another step towards building something extraordinary.</sub>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ ACHIEVEMENT VAULT ◈</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amey-collab69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    PHILOSOPHY                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ DEVELOPMENT PHILOSOPHY ◈</h2>
+## 💻 Tech Arsenal
 
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="25%">
-
-### 🧠
-
-**THINK**
-
-Understand the problem before writing code.
-
-</td>
-<td align="center" width="25%">
-
-### ⚡
-
-**ENGINEER**
-
-Build clean and scalable systems.
-
-</td>
-<td align="center" width="25%">
-
-### 🔬
-
-**RESEARCH**
-
-Explore beyond conventional solutions.
-
-</td>
-<td align="center" width="25%">
-
-### 🚀
-
-**INNOVATE**
-
-Turn ideas into meaningful products.
-
-</td>
-</tr>
+<tr><td align="center"><b>⚡ Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css&theme=dark"/></td></tr>
+<tr><td align="center"><b>⚛️ Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,materialui&theme=dark"/></td></tr>
+<tr><td align="center"><b>🔧 Backend</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,dotnet&theme=dark"/></td></tr>
+<tr><td align="center"><b>🗄️ Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase&theme=dark"/></td></tr>
+<tr><td align="center"><b>🤖 AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"/></td></tr>
+<tr><td align="center"><b>☁️ DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github&theme=dark"/></td></tr>
+<tr><td align="center"><b>🛠️ Tools</b></td><td><img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark"/></td></tr>
 </table>
 
+<img src="https://img.shields.io/badge/LangChain-0d0221?style=for-the-badge&logo=langchain&logoColor=00f5ff"/>
+<img src="https://img.shields.io/badge/LangGraph-0d0221?style=for-the-badge&logo=langchain&logoColor=ff00ff"/>
+<img src="https://img.shields.io/badge/OpenAI-0d0221?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0d0221?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Groq-0d0221?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0d0221?style=for-the-badge&logoColor=00f5ff"/>
+
+</div>
+
+## 📊 GitHub Performance Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amey-collab69&show_icons=true&theme=radical&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&border_color=00f5ff&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab69&layout=compact&theme=radical&bg_color=0d0221&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&langs_count=8" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amey-collab69&theme=radical&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=ffffff&stroke=ff00ff&border=00f5ff" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=amey-collab69&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab69&bg_color=0d0221&color=00f5ff&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/snake-light.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🚀 Engineering | 🧠 AI Research | ☁️ Infrastructure |
+|:---:|:---:|:---:|
+| Full Stack Systems | RAG Architecture | Docker |
+| FastAPI & Backend | LLM Engineering | Kubernetes |
+| Scalable APIs | LangChain / LangGraph | AWS |
+| System Design | Machine Learning | Cloud Architecture |
+
+</div>
+
+<details>
+<summary><b>📈 2026 Roadmap (click to expand)</b></summary>
 <br/>
 
-> "The best way to predict the future is to engineer it."
+- [x] Publish research in IEEE Xplore
+- [x] Ship SentinelAI & ClimateAI
+- [ ] Production-grade agentic RAG platform
+- [ ] Kubernetes certification (CKA)
+- [ ] Open-source an LLM tooling library
 
-</div>
+</details>
 
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    CONNECT                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<h2 align="center">◈ ESTABLISH CONNECTION ◈</h2>
+## 🌐 Connect With Me
 
 <div align="center">
 
-**Have an interesting idea, research opportunity, or engineering challenge? Let's connect.**
+<a href="https://www.linkedin.com/in/amey-rathore-92146535a/"><img src="https://img.shields.io/badge/LinkedIn-Amey%20Rathore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/amey-collab69"><img src="https://img.shields.io/badge/GitHub-amey--collab69-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff"/></a>
+<a href="https://techmasterai.org/"><img src="https://img.shields.io/badge/TechMasterAI-Website-0d0221?style=for-the-badge&logo=googlechrome&logoColor=00f5ff"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/amey-rathore-92146535a/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```text
+╔════════════════════════════════════════════════╗
+║                                                ║
+║   "The future belongs to those who build it."  ║
+║                              — Amey Rathore    ║
+║                                                ║
+║   THINK DEEP • BUILD SMART • INNOVATE FEARLESS ║
+║                                                ║
+╚════════════════════════════════════════════════╝
+```
 
-<a href="https://github.com/amey-collab69">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654220-358f-4661-953d-5c571497ef5f.gif" width="360"/>
 
-<a href="https://techmasterai.org/">
-<img src="https://img.shields.io/badge/TECHMASTERAI-EXPLORE%20THE%20ORGANIZATION-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amey-collab69&style=for-the-badge&color=00F5FF&label=PROFILE+VISITORS" alt="Profile Visitors"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050014,30:4B0082,65:00F5FF,100:050014&section=footer&text=BUILD.%20INNOVATE.%20REPEAT.&fontSize=34&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-**AMEY RATHORE © 2026**
-
-<sub>Designed with curiosity. Engineered with precision. Driven by innovation.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00f5ff,100:0d0221&height=160&section=footer&text=Building%20Tomorrow%2C%20One%20Commit%20at%20a%20Time&fontSize=24&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%"/>
 
 </div>
