@@ -1,6 +1,9 @@
- <div align="center">
 
-<!-- ═══════════════ HERO SECTION ═══════════════ -->
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HERO HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050014,25:10002b,50:170044,75:071a2e,100:001b20&text=AMEY%20RATHORE&fontSize=82&fontColor=00F5FF&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=16&descAlignY=58&animation=fadeIn&stroke=00F5FF&strokeWidth=2"/>
 
@@ -16,15 +19,25 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/amey-rathore-92146535a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/amey-collab69"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://techmasterai.org/"><img src="https://img.shields.io/badge/TECHMASTERAI-COO-00F5FF?style=flat-square&logo=vercel&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/amey-rathore-92146535a/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amey-collab69">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://techmasterai.org/">
+<img src="https://img.shields.io/badge/TECHMASTERAI-COO-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ═══════════════ IDENTITY ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ THE DEVELOPER BEHIND THE CODE ◈</h2>
 
@@ -34,44 +47,58 @@
 
 ### AMEY RATHORE
 
-**Full Stack Developer · AI/ML Engineer · Researcher · Technology Leader**
+**Full Stack Developer | AI/ML Engineer | Researcher | Technology Leader**
 
 *I don't just write code. I engineer solutions, explore intelligence, and build systems designed to make an impact.*
 
 </div>
 
-```typescript
-interface Developer {
-    identity: string;
-    position: string;
-    education: string;
-    interests: string[];
-    mission: string;
-}
+```python
+class AmeyRathore:
 
-const amey: Developer = {
-    identity: "Amey Rathore",
-    position: "COO @ TechMasterAI",
-    education: "B.Tech CSE | VIT Bhopal University",
+    def __init__(self):
+        self.name = "Amey Rathore"
+        self.role = [
+            "Full Stack Developer",
+            "AI/ML Engineer",
+            "Researcher",
+            "COO @ TechMasterAI"
+        ]
 
-    interests: [
-        "Full Stack Engineering",
-        "Artificial Intelligence",
-        "Generative AI & LLMs",
-        "Machine Learning",
-        "Cloud & Distributed Systems",
-        "Research & Innovation"
-    ],
+        self.education = "B.Tech CSE | VIT Bhopal University"
 
-    mission: "Transforming complex ideas into intelligent products."
-};
+        self.expertise = [
+            "Full Stack Engineering",
+            "Artificial Intelligence",
+            "Generative AI & LLMs",
+            "Machine Learning",
+            "Cloud & Distributed Systems",
+            "Research & Innovation"
+        ]
 
-console.log("Let's build something extraordinary.");
+        self.exploring = [
+            "RAG Systems",
+            "LangChain & LangGraph",
+            "LLM Engineering",
+            "Advanced System Design",
+            "Kubernetes & Cloud Infrastructure"
+        ]
+
+        self.mindset = "Build. Research. Innovate. Repeat."
+
+    def mission(self):
+        return "Transforming complex ideas into intelligent products."
+
+
+amey = AmeyRathore()
+print(amey.mission())
 ```
 
 ---
 
-<!-- ═══════════════ LEADERSHIP ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    LEADERSHIP                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ LEADERSHIP & VISION ◈</h2>
 
@@ -91,7 +118,9 @@ Driving technology, operations, execution and innovation.
 
 ---
 
-<!-- ═══════════════ PROJECTS ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    PROJECTS                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ PROJECTS / ENGINEERING LAB ◈</h2>
 
@@ -112,7 +141,7 @@ Driving technology, operations, execution and innovation.
 An intelligent disaster management ecosystem designed to detect incidents, prioritize rescue operations and support emergency response.
 
 - Computer Vision
-- YOLO
+- YOLO-based detection
 - Real-time incident management
 - Geospatial visualization
 
@@ -136,6 +165,7 @@ A climate prediction platform leveraging historical weather data and deep learni
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -174,7 +204,9 @@ A browser-based communication platform using peer-to-peer connectivity and real-
 
 ---
 
-<!-- ═══════════════ RESEARCH ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    RESEARCH                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ RESEARCH & SCIENTIFIC CONTRIBUTIONS ◈</h2>
 
@@ -198,7 +230,9 @@ Exploring biologically inspired reinforcement learning through dopamine-modulate
 
 ---
 
-<!-- ═══════════════ TECHNOLOGY ECOSYSTEM ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    TECHNOLOGY STACK                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ TECHNOLOGY ECOSYSTEM ◈</h2>
 
@@ -229,6 +263,7 @@ Exploring biologically inspired reinforcement learning through dopamine-modulate
 <h3 align="center">05 / ARTIFICIAL INTELLIGENCE</h3>
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
 
 <br/><br/>
@@ -248,7 +283,9 @@ Exploring biologically inspired reinforcement learning through dopamine-modulate
 
 ---
 
-<!-- ═══════════════ LEARNING ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    CURRENT FOCUS                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ CURRENT RESEARCH & EXPLORATION ◈</h2>
 
@@ -267,52 +304,95 @@ Exploring biologically inspired reinforcement learning through dopamine-modulate
 
 ---
 
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                GITHUB COMMAND CENTER                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ GITHUB COMMAND CENTER ◈</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amey-collab69&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=050014&title_color=00F5FF&icon_color=FF00FF&text_color=E6EDF3&border_color=00F5FF&rank_icon=percentile"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab69&layout=compact&langs_count=8&theme=tokyonight&bg_color=050014&title_color=00F5FF&text_color=E6EDF3&border_color=00F5FF"/>
+<img src="https://img.shields.io/badge/DEVELOPER-ANALYTICS-00F5FF?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/COMMIT-MONITOR-8A2BE2?style=for-the-badge&labelColor=050014"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FF00FF?style=for-the-badge&labelColor=050014"/>
 
-<br/><br/>
+</div>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=amey-collab69&theme=tokyonight&background=050014&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&border=00F5FF"/>
+<h3 align="center">⚡ DEVELOPER STATISTICS</h3>
 
-<br/><br/>
+<div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab69&bg_color=050014&color=00F5FF&line=8A2BE2&point=FF00FF&area=true&hide_border=false&custom_title=CONTRIBUTION%20ACTIVITY"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amey-collab69&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=050014&title_color=00F5FF&icon_color=FF00FF&text_color=E6EDF3&border_color=8A2BE2&rank_icon=percentile" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab69&layout=donut&langs_count=8&theme=tokyonight&bg_color=050014&title_color=00F5FF&text_color=E6EDF3&border_color=8A2BE2" alt="Most Used Languages"/>
+
+</div>
+
+<br/>
+
+<h3 align="center">🔥 CONTRIBUTION STREAK</h3>
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=amey-collab69&theme=tokyonight&background=050014&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&border=8A2BE2&dates=AAAAAA" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<h3 align="center">📈 COMMIT ACTIVITY TIMELINE</h3>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab69&bg_color=050014&color=00F5FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true&custom_title=AMEY%20RATHORE%20%7C%20CODING%20ACTIVITY" alt="GitHub Commit Activity Graph"/>
+
+</div>
+
+<br/>
+
+<h3 align="center">🟩 CONTRIBUTION HEATMAP / SNAKE</h3>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050014,50:170044,100:001b20&height=3&section=header" width="100%"/>
+
+**⚡ CODE. COMMIT. CONTRIBUTE. REPEAT. ⚡**
+
+<sub>Every contribution is another step towards building something extraordinary.</sub>
 
 </div>
 
 ---
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    TROPHIES                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ ACHIEVEMENT VAULT ◈</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amey-collab69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amey-collab69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
-
-<h2 align="center">◈ CONTRIBUTION MATRIX ◈</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<!-- ═══════════════ DEVELOPER PRINCIPLES ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    PHILOSOPHY                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ DEVELOPMENT PHILOSOPHY ◈</h2>
 
@@ -367,7 +447,9 @@ Turn ideas into meaningful products.
 
 ---
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    CONNECT                             -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">◈ ESTABLISH CONNECTION ◈</h2>
 
@@ -375,7 +457,7 @@ Turn ideas into meaningful products.
 
 **Have an interesting idea, research opportunity, or engineering challenge? Let's connect.**
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/amey-rathore-92146535a/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -391,15 +473,19 @@ Turn ideas into meaningful products.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=amey-collab69&style=for-the-badge&color=00F5FF&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=amey-collab69&style=for-the-badge&color=00F5FF&label=PROFILE+VISITORS" alt="Profile Visitors"/>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050014,30:4B0082,65:00F5FF,100:050014&section=footer&text=BUILD.%20INNOVATE.%20REPEAT.&fontSize=34&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050014,30:4B0082,65:00F5FF,100:050014&section=footer&text=BUILD.%20INNOVATE.%20REPEAT.&fontSize=34&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 **AMEY RATHORE © 2026**
 
