@@ -188,7 +188,7 @@ LLM-powered applications, RAG pipelines and intelligent chatbots built with **Py
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amey-collab69&show_icons=true&theme=radical&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&border_color=00f5ff&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amey-collab&show_icons=true&theme=radical&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&border_color=00f5ff&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab69&layout=compact&theme=radical&bg_color=0d0221&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&langs_count=8" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amey-collab69&theme=radical&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=ffffff&stroke=ff00ff&border=00f5ff" width="70%"/>
