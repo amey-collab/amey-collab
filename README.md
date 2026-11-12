@@ -189,13 +189,13 @@ LLM-powered applications, RAG pipelines and intelligent chatbots built with **Py
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amey-collab&show_icons=true&theme=radical&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&border_color=00f5ff&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab69&layout=compact&theme=radical&bg_color=0d0221&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab&layout=compact&theme=radical&bg_color=0d0221&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&langs_count=8" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amey-collab69&theme=radical&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=ffffff&stroke=ff00ff&border=00f5ff" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amey-collab&theme=radical&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=ffffff&stroke=ff00ff&border=00f5ff" width="70%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=amey-collab69&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amey-collab&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab69&bg_color=0d0221&color=00f5ff&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab&bg_color=0d0221&color=00f5ff&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -204,9 +204,9 @@ LLM-powered applications, RAG pipelines and intelligent chatbots built with **Py
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/snake-light.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/amey-collab69/amey-collab69/output/snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/amey-collab/amey-collab/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amey-collab/amey-collab/output/snake-light.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/amey-collab/amey-collab/output/snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
