@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/amey-rathore-92146535a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/></a>
   <a href="https://techmasterai.org/"><img src="https://img.shields.io/badge/TechMasterAI-COO-00f5ff?style=for-the-badge&logo=rocket&logoColor=00f5ff&labelColor=0d0221"/></a>
   <a href="#-research--publications"><img src="https://img.shields.io/badge/IEEE%20Xplore-Published-ff00ff?style=for-the-badge&logo=ieee&logoColor=ff00ff&labelColor=0d0221"/></a>
-  <img src="https://komarev.com/ghpvc/?username=amey-collab69&style=for-the-badge&color=00f5ff&labelColor=0d0221&label=VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=amey-collab&style=for-the-badge&color=00f5ff&labelColor=0d0221&label=VISITORS"/>
 </p>
 
 <p>
@@ -241,7 +241,7 @@ LLM-powered applications, RAG pipelines and intelligent chatbots built with **Py
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amey-rathore-92146535a/"><img src="https://img.shields.io/badge/LinkedIn-Amey%20Rathore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/amey-collab69"><img src="https://img.shields.io/badge/GitHub-amey--collab69-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff"/></a>
+<a href="https://github.com/amey-collab"><img src="https://img.shields.io/badge/GitHub-amey--collab69-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff"/></a>
 <a href="https://techmasterai.org/"><img src="https://img.shields.io/badge/TechMasterAI-Website-0d0221?style=for-the-badge&logo=googlechrome&logoColor=00f5ff"/></a>
 
 <br/><br/>
