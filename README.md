@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- ═══════════════════ HOLOGRAPHIC HEADER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:0a0a2e,100:001a12&height=300&section=header&text=AMEY%20RATHORE&fontSize=90&fontColor=00f5ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20IEEE%20Researcher%20%E2%80%A2%20COO%20%40%20TechMasterAI&descAlignY=62&descSize=17&animation=twinkling&stroke=ff00ff&strokeWidth=2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=%5B+SYSTEM+BOOT+...+OK+%5D;%5B+LOADING+AMEY.RATHORE+...+100%25+%5D;%5B+ACCESS+GRANTED+%E2%9C%93+%5D;Full+Stack+Developer+%E2%9A%A1;Generative+AI+%2B+LLM+Engineer+%F0%9F%A4%96;IEEE+Xplore+Published+Researcher+%F0%9F%94%AC;COO+%40+TechMasterAI+%F0%9F%9A%80;Engineering+Intelligence+Into+Reality" alt="Typing SVG"/>
 </a>
 
-<!-- ═══════════════════ QUICK BADGES ═══════════════════ -->
 <p>
   <a href="https://www.linkedin.com/in/amey-rathore-92146535a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/></a>
   <a href="https://techmasterai.org/"><img src="https://img.shields.io/badge/TechMasterAI-COO-00f5ff?style=for-the-badge&logo=rocket&logoColor=00f5ff&labelColor=0d0221"/></a>
@@ -17,7 +15,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Status-Building%20the%20Future-00ff9f?style=flat-square&labelColor=0d0221"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-ff00ff?style=flat-square&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-ff00ff?style=flat-square&labelColor=0d0221"/>
   <img src="https://img.shields.io/badge/Based%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-00f5ff?style=flat-square&labelColor=0d0221"/>
 </p>
 
@@ -95,11 +93,11 @@ if __name__ == "__main__":
 ### 🛰️ SentinelAI
 AI-powered disaster response & rescue management platform with real-time object detection.
 
-![React](https://img.shields.io/badge/React-0d0221?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=flat-square&logo=fastapi&logoColor=00f5ff)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0221?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![YOLO](https://img.shields.io/badge/YOLO-0d0221?style=flat-square&logo=yolo&logoColor=00FFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=flat-square&logo=postgresql&logoColor=4169E1)
+![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=for-the-badge&logo=fastapi&logoColor=00f5ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0221?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![YOLO](https://img.shields.io/badge/YOLO-0d0221?style=for-the-badge&logo=yolo&logoColor=00FFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 </td>
 <td width="50%" valign="top">
@@ -107,10 +105,10 @@ AI-powered disaster response & rescue management platform with real-time object 
 ### 🌦️ ClimateAI
 Climate digital twin forecasting weather and rainfall with deep sequence models.
 
-![React](https://img.shields.io/badge/React-0d0221?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=flat-square&logo=fastapi&logoColor=00f5ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0221?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![LSTM](https://img.shields.io/badge/LSTM-0d0221?style=flat-square&logoColor=ff00ff)
+![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=for-the-badge&logo=fastapi&logoColor=00f5ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0221?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![LSTM](https://img.shields.io/badge/LSTM-0d0221?style=for-the-badge&logoColor=ff00ff)
 
 </td>
 </tr>
@@ -120,9 +118,9 @@ Climate digital twin forecasting weather and rainfall with deep sequence models.
 ### 🤖 NEXIS
 Intelligent voice-driven virtual AI assistant powered by LLMs.
 
-![Python](https://img.shields.io/badge/Python-0d0221?style=flat-square&logo=python&logoColor=FFD43B)
-![Speech](https://img.shields.io/badge/Speech%20Recognition-0d0221?style=flat-square&logo=googleassistant&logoColor=00f5ff)
-![LLM](https://img.shields.io/badge/LLM%20APIs-0d0221?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Speech](https://img.shields.io/badge/Speech%20Recognition-0d0221?style=for-the-badge&logo=googleassistant&logoColor=00f5ff)
+![LLM](https://img.shields.io/badge/LLM%20APIs-0d0221?style=for-the-badge&logo=openai&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -130,10 +128,10 @@ Intelligent voice-driven virtual AI assistant powered by LLMs.
 ### 🎥 Neon Video Chat
 Real-time peer-to-peer video communication platform.
 
-![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=flat-square&logo=nodedotjs&logoColor=339933)
-![WebRTC](https://img.shields.io/badge/WebRTC-0d0221?style=flat-square&logo=webrtc&logoColor=00f5ff)
-![Socket.io](https://img.shields.io/badge/Socket.io-0d0221?style=flat-square&logo=socketdotio&logoColor=white)
-![PeerJS](https://img.shields.io/badge/PeerJS-0d0221?style=flat-square&logoColor=ff00ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![WebRTC](https://img.shields.io/badge/WebRTC-0d0221?style=for-the-badge&logo=webrtc&logoColor=00f5ff)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d0221?style=for-the-badge&logo=socketdotio&logoColor=white)
+![PeerJS](https://img.shields.io/badge/PeerJS-0d0221?style=for-the-badge&logoColor=ff00ff)
 
 </td>
 </tr>
@@ -184,24 +182,27 @@ LLM-powered applications, RAG pipelines and intelligent chatbots built with **Py
 
 </div>
 
-<!-- ═══════════════════ LIVE COMMIT ACTIVITY & STREAK ═══════════════════ -->
+## 🏙️ 3D Contribution City
+
+<div align="center">
+
+<img src="./assets/3d-skyline.svg" alt="3D contribution skyline" width="100%"/>
+
+<sub>Every day of the last year is a building • taller + brighter = more contributions • rebuilt every hour</sub>
+
+</div>
+
 ## 📈 Live Commit Activity & Streak
 
 <div align="center">
 
-<!-- 🔥 STREAK: current streak, longest streak, total contributions -->
 <img src="https://streak-stats.demolab.com/?user=amey-collab&theme=radical&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakNum=00f5ff&currStreakLabel=00f5ff&sideNums=ff00ff&sideLabels=00f5ff&dates=ffffff&stroke=ff00ff&border=00f5ff&hide_border=false&date_format=j%20M%5B%20Y%5D" width="85%"/>
 
 <br/><br/>
 
-<!-- 📊 ACTIVITY GRAPH: flat line = no commits that day, line rises with more commits -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab&bg_color=0d0221&color=00f5ff&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true&radius=10&custom_title=Daily%20Commit%20Activity%20%E2%80%A2%20Last%2031%20Days" width="100%"/>
+<img src="./assets/activity-graph.svg" alt="Daily commit activity graph" width="100%"/>
 
-<sub>⚡ Flat line = no commits that day &nbsp;•&nbsp; Rising line = commits pushed &nbsp;•&nbsp; Auto-updates from GitHub</sub>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=amey-collab&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<sub>⚡ Flat line = no commits that day • Rising line = commits pushed • Auto-updates every hour</sub>
 
 </div>
 
@@ -209,11 +210,7 @@ LLM-powered applications, RAG pipelines and intelligent chatbots built with **Py
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/amey-collab/amey-collab/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amey-collab/amey-collab/output/snake-light.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/amey-collab/amey-collab/output/snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/amey-collab/amey-collab/output/snake-neon.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
