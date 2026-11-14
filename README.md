@@ -184,18 +184,24 @@ LLM-powered applications, RAG pipelines and intelligent chatbots built with **Py
 
 </div>
 
-## 📊 GitHub Performance Metrics
+<!-- ═══════════════════ LIVE COMMIT ACTIVITY & STREAK ═══════════════════ -->
+## 📈 Live Commit Activity & Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amey-collab&show_icons=true&theme=radical&bg_color=0d0221&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&border_color=00f5ff&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amey-collab&layout=compact&theme=radical&bg_color=0d0221&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&langs_count=8" height="180"/>
+<!-- 🔥 STREAK: current streak, longest streak, total contributions -->
+<img src="https://streak-stats.demolab.com/?user=amey-collab&theme=radical&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakNum=00f5ff&currStreakLabel=00f5ff&sideNums=ff00ff&sideLabels=00f5ff&dates=ffffff&stroke=ff00ff&border=00f5ff&hide_border=false&date_format=j%20M%5B%20Y%5D" width="85%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amey-collab&theme=radical&background=0d0221&ring=00f5ff&fire=ff00ff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=ffffff&stroke=ff00ff&border=00f5ff" width="70%"/>
+<br/><br/>
+
+<!-- 📊 ACTIVITY GRAPH: flat line = no commits that day, line rises with more commits -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab&bg_color=0d0221&color=00f5ff&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true&radius=10&custom_title=Daily%20Commit%20Activity%20%E2%80%A2%20Last%2031%20Days" width="100%"/>
+
+<sub>⚡ Flat line = no commits that day &nbsp;•&nbsp; Rising line = commits pushed &nbsp;•&nbsp; Auto-updates from GitHub</sub>
+
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=amey-collab&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amey-collab&bg_color=0d0221&color=00f5ff&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -241,7 +247,7 @@ LLM-powered applications, RAG pipelines and intelligent chatbots built with **Py
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amey-rathore-92146535a/"><img src="https://img.shields.io/badge/LinkedIn-Amey%20Rathore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/amey-collab"><img src="https://img.shields.io/badge/GitHub-amey--collab69-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff"/></a>
+<a href="https://github.com/amey-collab"><img src="https://img.shields.io/badge/GitHub-amey--collab-0d0221?style=for-the-badge&logo=github&logoColor=00f5ff"/></a>
 <a href="https://techmasterai.org/"><img src="https://img.shields.io/badge/TechMasterAI-Website-0d0221?style=for-the-badge&logo=googlechrome&logoColor=00f5ff"/></a>
 
 <br/><br/>
